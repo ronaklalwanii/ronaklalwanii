@@ -1,67 +1,21 @@
-# Hi there, I’m **Ronak** 👋
+# 💫 About Me:
+Hi, I'm Ronak, a frontend developer with a passion for creating beautiful and intuitive user interfaces. I specialize in developing responsive admin templates that provide a seamless experience for users.<br><br>With 4 years of experience in frontend development, I'm well-versed in HTML, CSS, JavaScript, and a range of popular frontend frameworks such as Bootstrap, Material Design, and Semantic UI. I have extensive experience in designing and developing custom admin panels for various industries, including healthcare, finance, and e-commerce.
 
-Senior Front‑End Engineer · React & Next.js specialist · Builder of best‑selling admin templates
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronak-lalwani)
-![Profile views](https://visitcount.itsvg.in/api?id=ronaklalwanii&label=Profile%20Views&color=3&icon=0)
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ronak-lalwani) 
 
----
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ronaklalwanii&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ronaklalwanii&theme=gotham&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ronaklalwanii&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🧑‍💻 About Me
-
-- **Current:** Senior Front‑End Engineer @ **YorkIE** (leading Laine Admin Panel & AI workflows with React 18, TS, Redux Toolkit, MUI, Cypress).  
-- **Highlights:**  
-  - Creator of **Vuexy, Materio & Sneat** admin templates (20 k + ThemeForest sales).  
-  - Former Senior Web Dev @ **FitPeo** – healthcare dashboards & analytics.  
-- **Toolbox:** React · Next.js · TypeScript · Redux Toolkit · MUI · Ant Design · Node.js · Firebase · Cypress.  
-- **Side quests:** building **Habit Quest** (MERN), learning game dev (Unity & Unreal), and shipping 1 % “atomic” open‑source commits.
-
----
-
-## 🚀 Current Projects
-
-| Project | Stack | Focus |
-|---------|-------|-------|
-| **Habit Quest** | MERN + React Native | Gamified habit tracking & analytics |
-| **Live Snip** (browser extension) | Vite · React | Convert any webpage section to reusable code |
-| **Open‑Source Fridays** | GitHub | Weekly micro‑contributions (docs, tests, UI fixes) |
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ronaklalwanii&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=ronaklalwanii&icon=0&color=3)](https://visitcount.itsvg.in)
 
-## 🛠 Tech Stack & Tools
-
-| Front‑End | Back‑End / Ops | Testing / Other |
-|-----------|---------------|-----------------|
-| ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui&logoColor=white) ![Ant Design](https://img.shields.io/badge/AntDesign-0170FE?style=flat&logo=antdesign&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white) | ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white) ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white) |
-
----
-
-## 🌱 Recent Open‑Source Wins
-
-- 📝 Added TypeScript examples to **mui/material‑ui** docs  
-- 🐞 Fixed a routing bug in **storybookjs/storybook**  
-- 📚 Improved accessibility guide on **reactjs/react.dev**
-
-➡️ [Full contribution graph »](https://github.com/ronaklalwanii?tab=overview&from=2025-01-01&to=2025-12-31)
-
----
-
-## 📈 GitHub Stats
-
-| <img src="https://github-readme-stats.vercel.app/api?username=ronaklalwanii&show_icons=true&theme=gotham&hide_border=true" height="165"/> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=ronaklalwanii&theme=gotham&hide_border=true" height="165"/> |
-|---|---|
-| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaklalwanii&layout=compact&theme=gotham&hide_border=true" height="140"/> | |
-
----
-
-## 💡 Fun Fact
-> *“Code is poetry; coffee is fuel; pull requests are love.”*  
-> Practising the **1 % better** rule from *Atomic Habits*—expect daily commits!
-
----
-
-### 📬 Let’s Connect
-
-Open an issue, drop a PR, or ping me on LinkedIn—always happy to collaborate, mentor, or just geek out over UI/UX.
-
-<!-- END -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
